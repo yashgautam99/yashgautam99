@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on some open source frontend projects **Frontend**
 
-- 👨‍💻 All of my projects are available at [https://yashgautam99.github.io/Portfolio1/](https://yashgautam99.github.io/Portfolio1/)
+- 👨‍💻 All of my projects are available at [https://yashgautam99.github.io/Portfolio1/](http://yashportfolio-react.netlify.app)
 
 - 💬 Ask me about **Frontend Development**
 
