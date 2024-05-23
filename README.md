@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashgautam2502" target="blank"><img src="https://img.shields.io/twitter/follow/yashgautam2502?logo=twitter&style=for-the-badge" alt="yashgautam2502" /></a> </p>
 
-- 🔭 "Each day, I'm sculpting my portfolio into a masterpiece, chiselling away imperfections, and infusing it with the vibrant essence of my creativity and expertise. With every line of code, every pixel perfected, I'm crafting a digital showcase that not only reflects my journey as a web developer but also captivates and inspires those who explore it." [Portfolio](https://yashgautam99.github.io/Portfolio1/)
+- 🔭 "Each day, I'm sculpting my portfolio into a masterpiece, chiselling away imperfections, and infusing it with the vibrant essence of my creativity and expertise. With every line of code, every pixel perfected, I'm crafting a digital showcase that not only reflects my journey as a web developer but also captivates and inspires those who explore it." [Portfolio](http://yashportfolio-react.netlify.app)
 
 - 🌱 I’m currently learning **MongoDB, React, Firebase**
 
